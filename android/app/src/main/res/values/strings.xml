@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Balance Hold Log</string>
+    <string name="app_title">BALANCE HOLD LOG</string>
+    <string name="splash_tagline">HOLD · LOG · PROGRESS</string>
+
+    <string name="menu_title_balance">BALANCE</string>
+    <string name="menu_title_hold">HOLD</string>
+    <string name="menu_title_log">LOG</string>
+    <string name="menu_tagline">YOUR OWN STEADY PROGRESS</string>
+    <string name="menu_hint">TAP ANYWHERE TO START AND STOP</string>
+    <string name="menu_empty_hint">NO ATTEMPTS YET · PICK A HOLD BELOW</string>
+
+    <string name="start_hold">START HOLD</string>
+    <string name="open_hold">OPEN</string>
+    <string name="finish">FINISH</string>
+    <string name="save_attempt">SAVE ATTEMPT</string>
+    <string name="hold_again">HOLD AGAIN</string>
+    <string name="menu">MENU</string>
+
+    <string name="tap_to_start">TAP ANYWHERE TO START</string>
+    <string name="tap_to_stop">TAP ANYWHERE TO STOP</string>
+    <string name="holding">HOLDING</string>
+    <string name="paused_hint">PAUSED · TAP TO RESUME</string>
+    <string name="get_into_position">GET INTO POSITION</string>
+    <string name="new_best">NEW BEST</string>
+    <string name="hold_complete">HOLD COMPLETE</string>
+    <string name="saved_locally">SAVED ON THIS DEVICE ONLY</string>
+    <string name="note_label">NOTE</string>
+
+    <string name="side_left">LEFT</string>
+    <string name="side_right">RIGHT</string>
+    <string name="diff_easy">EASY</string>
+    <string name="diff_steady">STEADY</string>
+    <string name="diff_hard">HARD</string>
+
+    <string name="settings_title">SETTINGS</string>
+    <string name="countdown">COUNTDOWN</string>
+    <string name="countdown_off">OFF</string>
+    <string name="countdown_three">3S</string>
+    <string name="countdown_five">5S</string>
+    <string name="sounds">FEEDBACK</string>
+    <string name="theme">THEME</string>
+    <string name="theme_stone">STONE</string>
+    <string name="theme_slate">SLATE</string>
+    <string name="local_backup">LOCAL BACKUP</string>
+    <string name="export_log">EXPORT LOG</string>
+    <string name="export_done">STORED %1$d ATTEMPTS ON THIS DEVICE</string>
+    <string name="offline_note">ALL DATA STAYS ON THIS DEVICE</string>
+
+    <string name="stat_total_holds">TOTAL HOLDS</string>
+    <string name="stat_best_today">BEST TODAY</string>
+    <string name="stat_best">BEST</string>
+    <string name="stat_attempts">ATTEMPTS</string>
+    <string name="no_attempts">NO ATTEMPTS YET</string>
+
+    <string name="hold_plank">PLANK</string>
+    <string name="hold_one_leg_stand">ONE-LEG STAND</string>
+    <string name="hold_wall_sit">WALL SIT</string>
+    <string name="hold_tree_pose">TREE POSE</string>
+    <string name="hold_side_plank">SIDE PLANK</string>
+    <string name="hold_card_stats">BEST %1$s · LAST %2$s</string>
+    <string name="hold_card_fresh">NO ATTEMPTS YET</string>
+
+    <string name="weekly_title">LAST SIX WEEKS</string>
+    <string name="milestone_target">TARGET %1$s</string>
+    <string name="raise_target">RAISE TARGET</string>
+    <string name="lower_target">LOWER TARGET</string>
+    <string name="days_ago">%1$d D AGO</string>
+    <string name="today">TODAY</string>
+
+    <string name="state_selected">SELECTED</string>
+    <string name="state_not_selected">NOT SELECTED</string>
+    <string name="state_cleared">CLEARED</string>
+    <string name="state_open">IN PROGRESS</string>
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+
+    <string name="phase_ready">READY</string>
+    <string name="phase_countdown">COUNTING DOWN</string>
+    <string name="phase_paused">PAUSED</string>
+    <string name="phase_finished">FINISHED</string>
+
+    <string name="cd_settings">OPEN SETTINGS</string>
+    <string name="cd_back">GO BACK</string>
+    <string name="cd_pause">PAUSE OR RESUME THE HOLD</string>
+    <string name="cd_tap_zone">TAP ANYWHERE TO START OR STOP THE HOLD</string>
+    <string name="cd_milestone_badge">MILESTONE BADGE</string>
+</resources>
